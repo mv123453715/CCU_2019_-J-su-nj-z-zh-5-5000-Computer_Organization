@@ -2,6 +2,6 @@
 ## LAB1 : MIPS Assembly Programming ( Prime )
 ## LAB2 : Basic Verilog modeling (Multiplier)
 ## LAB3 : Tiny MIPS core in Verilog
-## LAB4 : FPGA implementation (Nexys4) by LAB1 code
+## LAB4 : Development and Implementation of FPGA(Nexys4) for MIPS core in Verilog
 ## LAB5 : Cache behavior simulation
 
